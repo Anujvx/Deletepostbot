@@ -1,4 +1,4 @@
-# Telegram Mega Cleaner Bot
+# Telegram post Cleaner Bot
 
 This is a powerful Telegram bot that allows users to delete all messages from a Telegram channel. The bot can work in two modes:
 
