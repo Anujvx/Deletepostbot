@@ -28,7 +28,7 @@ Before you start, make sure you have the following:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Anujtemp/deleteposttg.git
+git clone https://github.com/Anujvx/Deletepostbot.git
 cd deleteposttg
 ```
 
